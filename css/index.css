@@ -1,0 +1,46 @@
+body {
+	background-color:#17a2b8;
+}
+
+.navbar-nav a {
+	color: white;
+}
+
+.bio-text{
+  position:absolute;
+  top:25%;
+  left:50%;
+  color: white;
+}
+
+.bio-text p, h3 {
+	top: 40%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 50px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 26.4px
+}
+
+.avatar{
+  position:absolute;
+  top:15%;
+  left:3%;
+}
+
+.skills-div{
+	position: absolute;
+	top: 600px;
+	width: 100%;
+	padding-left: none;
+}
+
+.contact-div{
+	position: absolute;
+	top: 900px;
+	width: 100%
+}
+
+
+
